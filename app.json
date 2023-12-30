@@ -1,8 +1,8 @@
 {
     "name": "Lycia",
-    "description": "Hello, I am Lycia [リュキア], An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
+    "description": "Hello, I am Anjali, An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
     "logo": "https://telegra.ph/file/de608084644c416309220.jpg",
-    "repository": "https://github.com/Red-Aura/Lyciachatbot",
+    "repository": "https://github.com/systemx5/Anjali-Chatbot",
     
     "env": {
     "API_ID": {
